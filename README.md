@@ -10,7 +10,7 @@ I am a junior developer and student studying software engineering @universityofa
 * 🌍  I'm based in Adelaide, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
-* 🧠  I'm learning everything c++
+* 🧠  I'm currently learning everything c++
 
 ### Skills
 
