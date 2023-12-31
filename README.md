@@ -5,7 +5,7 @@ Junior Developer
 ----------------
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20">,
-I am a juniour devloper and student studying software engineering @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
+I am a junior developer and student studying software engineering @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
 
 * 🌍  I'm based in Adelaide, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
