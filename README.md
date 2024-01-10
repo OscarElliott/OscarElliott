@@ -12,19 +12,6 @@ I am a junior developer and student studying software engineering @universityofa
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
 * 🧠  I'm currently learning everything c++
 
-<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<br><br>
-
-
 ### Skills
 
 
@@ -36,3 +23,16 @@ I am a junior developer and student studying software engineering @universityofa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/OscarElliott" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/oscar-elliott-078984283/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<br><br>
