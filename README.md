@@ -12,6 +12,8 @@ I am a junior developer and student studying software engineering @universityofa
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
 * 🧠  I'm currently learning everything c++
 
+<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats)
 
 <picture>
