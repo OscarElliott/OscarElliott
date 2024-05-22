@@ -27,7 +27,6 @@ I am <b>Oscar Elliott</b> a student studying software engineering @universityofa
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
 * 🧠  I'm currently learning networks and front-end
 
-### Skills
 
 <h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
 <p align="center">
@@ -59,8 +58,7 @@ I am <b>Oscar Elliott</b> a student studying software engineering @universityofa
 
 
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats) </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats)
 
 
 <picture align="center">
