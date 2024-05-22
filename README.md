@@ -1,3 +1,4 @@
+<img src="/assets/image.png" align="center">
 
 
 <!-- Social icons section -->
@@ -16,35 +17,53 @@
 </h1>
 
 
-Junior Developer
-----------------
+<h2 align="center"> About me 👨‍💻 </h2>
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20">,
-I am a junior developer and student studying software engineering @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
+I am <b>Oscar Elliott</b> a student studying software engineering @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
 
 * 🌍  I'm based in Adelaide, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
-* 🧠  I'm currently learning everything c++
+* 🧠  I'm currently learning networks and front-end
 
 ### Skills
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
+<p align="center">
+  <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="./assets/C++.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="./assets/C_Logo.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
+  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+  <code><a href="https://numpy.org/"><img alt="NumPy" title="NumPy" src="./assets/NumPy.png" height="42"></a></code>
+  <code><a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" src="./assets/Pandas.png" height="42"></a></code>
+  <code><a href="https://openai.com/index/openai-api/"><img alt="OpenAI API" title="Open AI API" src="./assets/OpenAi.png" height="42"></a></code>
+  <code><a href="https://www.pinecoders.com/"><img alt="Pinescript" title="Pinescript" src="./assets/Pine_Script.png" height="42"></a></code>
 </p>
+<br>
+
+<h1 align="center"> Languages/Frameworks/Tools I'm learning: </h1>
+<p align="center">
+  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
+</p>
+<br>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/OscarElliott" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/oscar-elliott-078984283/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats) </p>
 
 
-<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/OscarElliott/github-readme-stats)
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/OscarElliott/OscarElliott/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
