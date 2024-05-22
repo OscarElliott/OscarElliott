@@ -57,9 +57,12 @@ I am <b>Oscar Elliott</b> a student studying software engineering @universityofa
 <br>
 
 
-<div align="center">
-  <a href="https://github.com/OscarElliott/github-readme-stats"><img alt="Oscar Elliott's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)" height="192px"/></a>
-</div>
+<p align="center">
+  <a href="https://github.com/OscarElliott/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarElliott&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888" alt="Top Langs" />
+  </a>
+</p>
+
 
 
 
