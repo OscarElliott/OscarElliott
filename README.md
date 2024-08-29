@@ -20,12 +20,12 @@
 <h2 align="center"> About me 👨‍💻 </h2>
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20">,
-I am <b>Oscar Elliott</b> a student studying software engineering @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
+I am <b>Oscar Elliott</b> a student studying computer science @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
 
 * 🌍  I'm based in Adelaide, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
-* 🧠  I'm currently learning networks and front-end
+* 🧠  I'm currently learning ML and deep diving on DSA
 
 
 <h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
@@ -44,6 +44,7 @@ I am <b>Oscar Elliott</b> a student studying software engineering @universityofa
   <code><a href="https://pandas.pydata.org/"><img alt="Pandas" title="Pandas" src="./assets/Pandas.png" height="42"></a></code>
   <code><a href="https://openai.com/index/openai-api/"><img alt="OpenAI API" title="Open AI API" src="./assets/OpenAi.png" height="42"></a></code>
   <code><a href="https://www.pinecoders.com/"><img alt="Pinescript" title="Pinescript" src="./assets/Pine_Script.png" height="42"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
 </p>
 <br>
 
@@ -52,7 +53,6 @@ I am <b>Oscar Elliott</b> a student studying software engineering @universityofa
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
 </p>
 <br>
 
