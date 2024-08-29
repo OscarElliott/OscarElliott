@@ -25,7 +25,7 @@ I am <b>Oscar Elliott</b> a student studying computer science @universityofadela
 * 🌍  I'm based in Adelaide, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
-* 🧠  I'm currently learning ML and deep diving on DSA
+* 🧠  I'm currently learning ML and deep diving on DSA you can check on my progress [here](https://leetcode.com/u/OscarElliott/) 
 
 
 <h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
