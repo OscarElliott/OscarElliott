@@ -20,12 +20,12 @@
 <h2 align="center"> About me 👨‍💻 </h2>
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20">,
-I am <b>Oscar Elliott</b> a student studying computer science @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
+I am <b>Oscar Elliott</b> a recent graduate from @universityofadelaide. Welcome to my github profile feel free to have a look around and check out my pinned repositories to see my latest and favourite projects :D
 
-* 🌍  I'm based in Adelaide, Australia
+* 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [My Website](http://oscarelliott.github.io/)
 * ✉️  You can contact me at [OscarAnthonyElliott@gmail.com](mailto:OscarAnthonyElliott@gmail.com)
-* 🧠  I'm currently learning ML and deep diving on DSA you can check on my progress [here](https://leetcode.com/u/OscarElliott/) 
+* 🧠  I'm currently learning C++ you can check on my progress [here](https://leetcode.com/u/OscarElliott/) 
 
 
 <h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
