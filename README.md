@@ -28,7 +28,7 @@ I am <b>Oscar Elliott</b> a recent graduate from @universityofadelaide. Welcome 
 * 🧠  I'm currently learning C++ you can check on my progress [here](https://leetcode.com/u/OscarElliott/) 
 
 
-<h1 align="center"> Languages/Frameworks/Tools I'm good at: </h1>
+<h1 align="center"> Languages/Frameworks/Tools I have experience with: </h1>
 <p align="center">
   <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="./assets/C++.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="./assets/C_Logo.png" height="42"></a></code>
